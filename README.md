@@ -5,4 +5,4 @@ My name is Vasil, better known as P1l3T0. I'm a passionate Computer Science stud
 - 💀 I’m currently learning HTML, CSS, JS and Node.js
 - 🐣 Fun fact: my username means "chicken" in bulgarian
 
-https://github-readme-stats.vercel.app/api?username=P1l3T0&theme=radical
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=P1l3T0&theme=radical)
