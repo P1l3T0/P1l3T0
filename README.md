@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 🗿, I'm Pl13T0</h1>
 <h3 align="center">Computer Science student</h3>
 
-- ⚔ I’m currently working on a special big project for my mother: **TU Sofia, Sliven faculty of fashion industry website (it's a temporary name)**
+- ⚔ I’m currently working on a special big project for my mom: **TU Sofia, Sliven faculty of fashion industry website (it's a temporary name)**
 
 - 💀 In the same time, I'm learning more about **HTML, CSS, JS and Node.js**
 
