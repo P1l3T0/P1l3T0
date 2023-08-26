@@ -1,13 +1,13 @@
 <h1 align="center">Hello there 🗿, I'm Pl13T0</h1>
-<h3 align="center">Computer Science student</h3>
+<h3 align="center">Software Engineer</h3>
 
-- ⚔ I’m currently working on a special big project: **TU Sofia, College Sliven, TDMFI major website (it's a temporary name)**
+- 🟢 Currently attending a software engineering internship at **Progress Software**
 
-- 💀 In the same time, I'm learning more about **React**
+- ⚔ In the meantime, I'm working on a project for **Technical University of Sofia, College Sliven**
 
 - 📫 Want to send me a message? You can write here: **vgan3v@gmail.com**
 
-- 🐣 Fun fact: **My username means "chicken" in bulgarian**
+- 🐣 Fun fact: **My username means "chicken" in Bulgarian**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,7 +26,6 @@
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=P1l3T0&theme=prussian)
